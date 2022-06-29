@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_fab.xml" value="0.1215" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_search.xml" value="0.144" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_tvshow_details.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_watchlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_episode.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_slider_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_tv_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_back_button.xml" value="0.1285" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_container.xml" value="0.1385" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_fading_edge.xml" value="0.1285" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_slider_indicator_active.xml" value="0.1285" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_slider_indicator_inactive.xml" value="0.1285" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/drawable/background_tv_show.xml" value="0.1215" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/activity_tvshow_details.xml" value="0.136" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_episode.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_slider_image.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/item_container_tv_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/MVVMPractice/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.18489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
